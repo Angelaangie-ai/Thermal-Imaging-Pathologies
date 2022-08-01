@@ -4,4 +4,4 @@ Due to climate change and to the environmental impact caused by the construction
 
 Given that, this research project aims to combine infrared thermography, machine learning (ML), and artificial intelligence (AI) to help stakeholders determine the viability of reusing existing buildings, by identifying their pathologies and defects more efficiently and accurately. 
 
-Learn more about the initial findings of my project: https://engineering.lehigh.edu/academics/experiential-learning/ugrs/2022/angela-busheska-leigh-jacobsen-louisa-rose
+Learn more about the initial findings of our project: https://engineering.lehigh.edu/academics/experiential-learning/ugrs/2022/angela-busheska-leigh-jacobsen-louisa-rose
